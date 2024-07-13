@@ -1,2 +1,3 @@
-# my-first-project
-This is my first project on github
+# Definitely not my first project
+
+Description: learning how to upload on github
